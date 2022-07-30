@@ -80,6 +80,10 @@ export const ExplanationSection = () => {
           <a className='text-blue-800 underline'>Kunjungi repositori kodenya di Github!</a>
         </Link>
       </p>
+
+      <p className='mt-4 max-w-prose'>
+        Keterangan, TP(TrustPositif) menandakan bahwa Websitenya sudah {'"'}Resmi di blokir{'"'}
+      </p>
     </section>
   )
 }
